@@ -1,7 +1,9 @@
 <?php
 
 //$data type array
-function selection_sort($data)
+use JetBrains\PhpStorm\Pure;
+
+#[Pure] function selection_sort($data)
 {
     for ($i = 0; $i < count($data) - 1; $i++) {
         $min = $i;
