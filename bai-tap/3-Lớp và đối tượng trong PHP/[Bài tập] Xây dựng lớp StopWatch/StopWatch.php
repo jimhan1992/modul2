@@ -16,8 +16,8 @@
 class StopWatch
 {
 
-    public int $startTime;
-    public int $endTime;
+    private int $startTime;
+    private int $endTime;
 
     public function __construct()
     {
