@@ -1,12 +1,12 @@
 <?php
-namespace Class;
+
 class Employee
 {
-    protected string $ho;
-    protected string $ten;
-    protected string $ngay_sinh;
-    protected string $dia_chi;
-    protected string $c_viec;
+    public string $ho;
+    public string $ten;
+    public string $ngay_sinh;
+    public string $dia_chi;
+    public string $c_viec;
 
     public function __construct($ho, $ten, $ngay_sinh, $dia_chi, $c_viec)
     {

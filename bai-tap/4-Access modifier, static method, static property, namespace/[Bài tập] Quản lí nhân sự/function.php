@@ -1,4 +1,5 @@
 <?php
+include_once "Employee.php";
 function lay_du_lieu()
 {
     $lay = file_get_contents("Employee.json");
@@ -7,6 +8,8 @@ function lay_du_lieu()
 
 function gui_du_lieu($arr)
 {
-    $gui = json_encode($arr, JSON_PRETTY_PRINT);
-    file_put_contents("Employee.json",$gui);
+    $data = lay_du_lieu();
+    array_push($data, $arr);
+    $gui = json_encode($data, JSON_PRETTY_PRINT);
+    file_put_contents("Employee.json", $gui);
 }
