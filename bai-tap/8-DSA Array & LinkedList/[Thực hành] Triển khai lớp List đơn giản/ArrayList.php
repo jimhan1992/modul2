@@ -42,7 +42,7 @@ class ArrayList
         //Hàm preg_match() được dùng để kiểm tra, so khớp và lấy kết quả
         return preg_match("/^[0-9]+$/", $toCheck);
     }
-
+//5
     public function size()
     {
         return count($this->arrayList);
