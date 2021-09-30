@@ -29,5 +29,5 @@ function printResult($string)
     }
 }
 
-$string = "s * (s – a) * s – b) * (s – c)";
+$string = "(– b + (b^2 – 4*a*c)^(0.5/ 2*a))";
 printResult($string);
