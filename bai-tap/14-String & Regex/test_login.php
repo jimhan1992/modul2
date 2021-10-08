@@ -44,13 +44,13 @@ if ($_SERVER["REQUEST_METHOD"]== "POST") {
     <fieldset style="width: 250px; margin: auto">
         <legend>Đăng Ký</legend>
         <label for="name">Tên: <br></label>
-        <input type="text" name="name" id="name">
+        <input type="text" name="name" id="name" placeholder="Jimhan1992">
         <label for="password"><br>Password:<br></label>
-        <input type="text" name="password" id="password">
+        <input type="text" name="password" id="password" placeholder="DaylaMatKhau@92">
         <label for="email"><br>Email:<br></label>
-        <input type="text" name="email" id="email">
+        <input type="text" name="email" id="email" placeholder="tranhan1992@gmail.com">
         <label for="phone"><br>Phone:<br></label>
-        <input type="text" name="phone" id="phone">
+        <input type="text" name="phone" id="phone" placeholder="0977460093">
         <br><br>
         <button>Đăng ký</button>
     </fieldset>
