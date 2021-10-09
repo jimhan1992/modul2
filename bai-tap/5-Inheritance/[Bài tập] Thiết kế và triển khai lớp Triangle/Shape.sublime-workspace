@@ -47,14 +47,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/jimhan/.config/sublime-text/Packages/Terminal/Default (Linux).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 139,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -111,11 +103,15 @@
 	[
 		"/var/www/html/modul2",
 		"/var/www/html/modul2/bai-tap",
-		"/var/www/html/modul2/bai-tap/9- DSA-Stack, Queue, Tree",
-		"/var/www/html/modul2/bai-tap/9- DSA-Stack, Queue, Tree/[Bài tập] Chuyển đổi từ hệ thập phân sang hệ nhị phân"
+		"/var/www/html/modul2/bai-tap/1-Tổng quan ứng dụng Web PHP",
+		"/var/www/html/modul2/bai-tap/10-PHP Datastructures",
+		"/var/www/html/modul2/bai-tap/11- Thuật toán tìm kiếm",
+		"/var/www/html/modul2/bai-tap/12-Thuật toán sắp xếp",
+		"/var/www/html/modul2/bai-tap/13-Xử lí ngoại lệ"
 	],
 	"file_history":
 	[
+		"/home/jimhan/.config/sublime-text/Packages/Terminal/Default (Linux).sublime-keymap",
 		"/home/jimhan/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings",
 		"/home/jimhan/.config/sublime-text/Packages/User/Terminal (Linux).sublime-settings",
 		"/var/www/html/modul2/test/haha.php",
@@ -170,38 +166,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/jimhan/.config/sublime-text/Packages/Terminal/Default (Linux).sublime-keymap",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 139,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
