@@ -4,12 +4,112 @@
 		"selected_items":
 		[
 			[
+				"a",
+				"AUTO_INCREMENT"
+			],
+			[
+				"au",
+				"AUTO_INCREMENT"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"V",
+				"VARCHAR"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"B",
+				"Books_borrow"
+			],
+			[
+				"tra",
+				"tran_han"
+			],
+			[
+				"ca",
+				"category_name"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"N",
+				"NXB"
+			],
+			[
+				"book",
+				"book_name"
+			],
+			[
+				"b",
+				"Books"
+			],
+			[
+				"inser",
+				"INSERT"
+			],
+			[
+				"va",
+				"VALUES"
+			],
+			[
+				"s",
+				"student_name"
+			],
+			[
 				"stu",
-				"student_id"
+				"Students"
+			],
+			[
+				"db",
+				"dbpass"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"de",
+				"demo"
+			],
+			[
+				"se",
+				"SELECT"
+			],
+			[
+				"pro",
+				"productCode"
+			],
+			[
+				"P",
+				"Products"
+			],
+			[
+				"v",
+				"VARCHAR"
 			],
 			[
 				"ke",
 				"KEY"
+			],
+			[
+				"pr",
+				"PRIMARY"
 			],
 			[
 				"her",
@@ -24,10 +124,6 @@
 				"$_POST"
 			],
 			[
-				"s",
-				"$_SERVER"
-			],
-			[
 				"lable",
 				"label"
 			],
@@ -38,10 +134,6 @@
 			[
 				"from",
 				"form"
-			],
-			[
-				"con",
-				"conn"
 			],
 			[
 				"include",
@@ -60,10 +152,6 @@
 				"mysqli_connect_errno"
 			],
 			[
-				"db",
-				"dbuser"
-			],
-			[
 				"mysqli_num",
 				"mysqli_num_rows"
 			],
@@ -80,10 +168,6 @@
 				"QLBH.sql"
 			],
 			[
-				"in",
-				"include"
-			],
-			[
 				"sql",
 				"QLBH.sql"
 			],
@@ -94,10 +178,6 @@
 			[
 				"ec",
 				"echo"
-			],
-			[
-				"fun",
-				"function"
 			],
 			[
 				"for",
@@ -111,6 +191,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/CategoryController.php",
+			"settings":
+			{
+				"buffer_size": 2405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/UserController.php",
+			"settings":
+			{
+				"buffer_size": 8511,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -170,11 +266,26 @@
 	"expanded_folders":
 	[
 		"/var/www/html/modul2",
-		"/var/www/html/modul2/bai-tap"
+		"/var/www/html/modul2/bai-tap",
+		"/var/www/html/modul2/bai-tap/21-MVC Model"
 	],
 	"file_history":
 	[
+		"/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/CategoryController.php",
+		"/var/www/html/Module2_CaseStudy_LibraryManager-master/sql/library.sql",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/src/Database.php",
+		"/var/www/html/modul2/demo_pdo/App/Model/DBConnect.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/index.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/view/delete.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/src/ReaderManager.php",
 		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/qltv.sql",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/view/index.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/css/style.css",
+		"/var/www/html/modul2/index.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/view/edit.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/untitled",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/connect.php",
+		"/var/www/html/modul2/bai-tap/19-SQL View, Index & Stored Procedure/[Bài tập] View, Index, Store Procedure/demo.sql",
 		"/var/www/html/modul2/test/test.sql",
 		"/var/www/html/modul2/QLBH.sql",
 		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/index.php",
@@ -203,7 +314,6 @@
 		"/home/jimhan/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings",
 		"/home/jimhan/.config/sublime-text/Packages/User/Terminal (Linux).sublime-settings",
 		"/var/www/html/modul2/test/haha.php",
-		"/var/www/html/modul2/index.php",
 		"/var/www/html/modul2/mysqlsampledatabase.zip",
 		"/var/www/html/modul2/test/demo_php/index.php",
 		"/var/www/html/modul2/test/demo_crud/function.php",
@@ -255,6 +365,69 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/CategoryController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/UserController.php",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -335,7 +508,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 307.0,
+	"side_bar_width": 366.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
